@@ -25,7 +25,15 @@ p {
 }
 
 .add {
-  color: green;
+  color: rgb(67, 167, 67);
+}
+
+.add {
+  color:darkgrey;
+}
+
+.add {
+  color:coral;
 }
 
 .del {

@@ -46,26 +46,27 @@
    <text>
       <body><div><pb facs="#facs_80" n="80" xml:id="img_0080"/>
             <p facs="#facs_80_tr_1">
-               <l facs="#facs_80_tr_1_tl_1" n="N001">37</l>
-               <l facs="#facs_80_tr_1_tl_2" n="N002">both at his hilarious manner and at his rather wild observation.</l>
-               <l facs="#facs_80_tr_1_tl_3" n="N003">"<speech continued="true" speaker="Lestrade">I dont know whether you think that <rs type="person" key="McFarlane, ">McFarlane </rs>came</speech></l>
-               <l facs="#facs_80_tr_1_tl_4" n="N004"><speech continued="true" speaker="Lestrade">out of gool in the dead of the night in order to leave his</speech></l>
-               <l facs="#facs_80_tr_1_tl_5" n="N005"><speech continued="true" speaker="Lestrade">strengthen the evidence against himself</speech>" said Lestrade "<speech continued="true">I</speech></l>
-               <l facs="#facs_80_tr_1_tl_6" n="N006"><speech continued="true" speaker="Lestrade">leave it to any expert in the world whether that is not</speech></l>
-               <l facs="#facs_80_tr_1_tl_7" n="N007"><speech continued="true" speaker="Lestrade">the mark of his thumb</speech>"</l>
-               <l facs="#facs_80_tr_1_tl_8" n="N008">"<speech speaker="Holmes">It is unquestionably the mark of his thumb</speech>"</l>
-               <l facs="#facs_80_tr_1_tl_9" n="N009">"<speech speaker="Lestrade">There, that's enough</speech>" said <rs type="person" key="Lestrade, ">Lestrade </rs>"<speech continued="true" speaker="Lestrade">I am a practical</speech></l>
-               <l facs="#facs_80_tr_1_tl_10" n="N010"><speech continued="true" speaker="Lestrade">man, <choice><expan>Mister</expan><abbr>Mr</abbr></choice> <rs type="person" key="Holmes, Sherlock" firstname="Sherlock">Holmes</rs>, and when I have got my evidence I come to</speech></l>
-               <l facs="#facs_80_tr_1_tl_11" n="N011"><speech continued="true" speaker="Lestrade">my conclusions. If you have anything to say you will find</speech></l>
-               <l facs="#facs_80_tr_1_tl_12" n="N012"><speech continued="true" speaker="Lestrade">me writing my report in the sitting room.</speech>"</l>
-               <l facs="#facs_80_tr_1_tl_13" n="N013"><rs type="person" key="Holmes, Sherlock" firstname="Sherlock">Holmes </rs>had recovered his equanimity, though I</l>
-               <l facs="#facs_80_tr_1_tl_14" n="N014">still seemed to detect gleams of amusement in his expression.</l>
-               <l facs="#facs_80_tr_1_tl_15" n="N015">"<speech speaker="Holmes">Dear me, this is a very sad development, <rs type="person" key="Watson, John H." firstname="John\u0020H.">Watson</rs>, is it not?</speech>"</l>
-               <l facs="#facs_80_tr_1_tl_16" n="N016">said he "<speech continued="true" speaker="Holmes">and yet there are some singular points about it</speech></l>
-               <l facs="#facs_80_tr_1_tl_17" n="N017"><speech continued="true" speaker="Holmes">which hold out some hopes for our Clients</speech>"</l>
-               <l facs="#facs_80_tr_1_tl_18" n="N018">"<speech speaker="Watson">I am delighted to hear it.</speech>" said I heartely "I was</l>
-               <l facs="#facs_80_tr_1_tl_19" n="N019">apaid it was all up with him"</l>
-               <l facs="#facs_80_tr_1_tl_20" n="N020">"<speech speaker="Holmes">I would hardly go so far as to say that, my dear</speech></l></p></div>
+               <l facs="#facs_80_tr_1_tl_1" n="N001">37</l></p>
+            <p>
+               <l facs="#facs_80_tr_1_tl_2" n="N002" rend="indent">both at his hilarious manner and at his rather wild observation.<br/></l>
+               <l facs="#facs_80_tr_1_tl_3" n="N003" rend="indent">"<speech continued="true" speaker="Lestrade">I dont know whether you think that <rs type="person" key="McFarlane, ">McFarlane </rs>came</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_4" n="N004"><speech continued="true" speaker="Lestrade">out of gool in the dead of the night in order to leave his</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_5" n="N005"><speech continued="true" speaker="Lestrade">strengthen the evidence against himself</speech>" said Lestrade "<speech continued="true">I</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_6" n="N006"><speech continued="true" speaker="Lestrade">leave it to any expert in the world whether that is not</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_7" n="N007"><speech continued="true" speaker="Lestrade">the mark of his thumb</speech>"</l><br/>
+               <l facs="#facs_80_tr_1_tl_8" n="N008" rend="indent">"<speech speaker="Holmes">It is unquestionably the mark of his thumb</speech>"</l><br/>
+               <l facs="#facs_80_tr_1_tl_9" n="N009" rend="indent">"<speech speaker="Lestrade">There, that's enough</speech>" said <rs type="person" key="Lestrade, ">Lestrade </rs>"<speech continued="true" speaker="Lestrade">I am a practical</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_10" n="N010"><speech continued="true" speaker="Lestrade">man, <choice><expan>Mister</expan><abbr>Mr</abbr></choice> <rs type="person" key="Holmes, Sherlock" firstname="Sherlock">Holmes</rs>, and when I have got my evidence I come to</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_11" n="N011"><speech continued="true" speaker="Lestrade">my conclusions. If you have anything to say you will find</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_12" n="N012"><speech continued="true" speaker="Lestrade">me writing my report in the sitting room.</speech>"</l><br/>
+               <l facs="#facs_80_tr_1_tl_13" n="N013" rend="indent"><rs type="person" key="Holmes, Sherlock" firstname="Sherlock">Holmes </rs>had recovered his equanimity, though I</l><br/>
+               <l facs="#facs_80_tr_1_tl_14" n="N014">still seemed to detect gleams of amusement in his expression.</l><br/>
+               <l facs="#facs_80_tr_1_tl_15" n="N015">"<speech speaker="Holmes">Dear me, this is a very sad development, <rs type="person" key="Watson, John H." firstname="John\u0020H.">Watson</rs>, is it not?</speech>"</l><br/>
+               <l facs="#facs_80_tr_1_tl_16" n="N016">said he "<speech continued="true" speaker="Holmes">and yet there are some singular points about it</speech></l><br/>
+               <l facs="#facs_80_tr_1_tl_17" n="N017"><speech continued="true" speaker="Holmes">which hold out some hopes for our Clients</speech>"</l><br/>
+               <l facs="#facs_80_tr_1_tl_18" n="N018" rend="indent">"<speech speaker="Watson">I am delighted to hear it.</speech>" said I heartely "I was</l><br/>
+               <l facs="#facs_80_tr_1_tl_19" n="N019">apaid it was all up with him"</l><br/>
+               <l facs="#facs_80_tr_1_tl_20" n="N020" rend="indent">"<speech speaker="Holmes">I would hardly go so far as to say that, my dear</speech></l></p></div><br/>
       </body>
    </text>
 </TEI>
